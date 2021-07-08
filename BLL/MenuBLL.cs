@@ -10,6 +10,7 @@ namespace BLL
 {
     public class MenuBLL
     {
+        //kiemtra
         public List<Menu> ListMenu()
         {
             return Connection.DBContext.Menus.ToList();

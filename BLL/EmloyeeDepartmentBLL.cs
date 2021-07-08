@@ -10,7 +10,7 @@ namespace BLL
 {
     public class EmloyeeDepartmentBLL
     {
-      
+        //kiemtra
         public EmployeeDepartment CreateEmployeeDepartment(EmployeeDepartment employeeDepartment)
         {
             Connection.DBContext.EmployeeDepartments.Add(employeeDepartment);

@@ -2,6 +2,7 @@
 {
     partial class FeatureSelector
     {
+        //kiemtra
         /// <summary>
         /// Required designer variable.
         /// </summary>

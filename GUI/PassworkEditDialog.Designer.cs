@@ -2,6 +2,7 @@
 {
     partial class PassworkEditDialog
     {
+        //kiemtra
         /// <summary>
         /// Required designer variable.
         /// </summary>

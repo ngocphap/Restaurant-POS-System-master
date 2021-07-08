@@ -10,6 +10,7 @@ namespace BLL
 {
     public class AreaBLL
     {
+        //kiemtra
         public List<Area> ListArea()
         {
             return Connection.DBContext.Areas.ToList();

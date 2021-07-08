@@ -12,6 +12,7 @@ using Excel = Microsoft.Office.Interop.Excel;
 
 namespace GUI
 {
+    //kiemtra
     public partial class Analytics : Form
     {
         private int monthOrYear = 0;

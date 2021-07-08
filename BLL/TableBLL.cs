@@ -10,6 +10,7 @@ namespace BLL
 {
     public class TableBLL
     {
+        //kiemtra
         public List<Table> ListTablesByArea(Area area)
         {
             return Connection.DBContext.Tables.Where(t => t.AreaID == area.ID).ToList();

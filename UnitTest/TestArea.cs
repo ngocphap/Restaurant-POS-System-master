@@ -5,7 +5,7 @@ using BLL;
 using System;
 
 namespace UnitTest
-{
+{// kiem tra
     [TestClass]
     public class TestArea
     {

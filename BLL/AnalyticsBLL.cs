@@ -8,6 +8,7 @@ namespace BLL
 {
     public class ReportType
     {
+        //kiemtra
         public string RawDateCreated;
         public decimal? RawTotalRevenue;
         public int numOrder;

@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 namespace GUI
 {
+    //kiemtra
     public partial class FeatureSelector : Form
     {
         public FeatureSelector()

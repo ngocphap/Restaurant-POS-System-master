@@ -10,6 +10,7 @@ namespace BLL
 {
     public class DepartmentBLL
     {
+        //kiemtra
         public List<Department> ListDepartment()
         {
             return Connection.DBContext.Departments.ToList();

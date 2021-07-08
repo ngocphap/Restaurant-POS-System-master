@@ -1,5 +1,6 @@
 ﻿namespace GUI
 {
+    //kiemtra
     partial class Login
     {
         /// <summary>

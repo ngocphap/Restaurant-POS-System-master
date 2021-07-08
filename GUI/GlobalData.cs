@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace GUI
 {
+    //kiemtra
     public class GlobalData
     {
         public static Employee EMPLOYEE;

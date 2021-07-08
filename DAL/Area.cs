@@ -9,6 +9,7 @@ namespace DAL
     [Table("Area")]
     public partial class Area
     {
+        //kiemtra
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Area()
         {

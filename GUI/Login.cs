@@ -12,6 +12,7 @@ using System.Windows.Forms;
 
 namespace GUI
 {
+    //kiemtra
     public partial class Login : Form
     {
         int timesTypeFailPassword = 0;

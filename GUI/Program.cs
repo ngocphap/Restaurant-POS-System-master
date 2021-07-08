@@ -10,6 +10,7 @@ namespace GUI
 {
     static class Program
     {
+        //kiemtra
         /// <summary>
         /// The main entry point for the application.
         /// </summary>

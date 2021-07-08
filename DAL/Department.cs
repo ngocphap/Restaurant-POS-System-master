@@ -9,6 +9,7 @@ namespace DAL
     [Table("Department")]
     public partial class Department
     {
+        //kiemtra
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Department()
         {

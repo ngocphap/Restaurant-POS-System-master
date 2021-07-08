@@ -12,6 +12,7 @@ using DAL;
 
 namespace GUI
 {
+    //kiemtra
     public partial class PassworkEditDialog : Form
     {
         public Employee employee;

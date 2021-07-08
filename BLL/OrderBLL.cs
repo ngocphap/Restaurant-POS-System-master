@@ -10,6 +10,7 @@ namespace BLL
 {
     public class OrderBLL
     {
+        //kiemtra
         public Order CreateOrder(Employee employee, List<Table> tables, string customerName, List<OrderDetail> listOrderDetail)
         {
             // create list ordertable from list table
