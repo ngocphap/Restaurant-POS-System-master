@@ -70,11 +70,12 @@ namespace GUI.SystemSetup.Menu
             };
 
             MenuItemBLL menuItemBLL = new MenuItemBLL();
-
-            if (this.MenuItem == null)
+            menuItemBLL.CreateMenuItem(newMenuItem);
+            menuItemBLL.Update(this.MenuItem, newMenuItem);
+           /* if (this.MenuItem == null)
                 menuItemBLL.CreateMenuItem(newMenuItem);
             else
-                menuItemBLL.Update(this.MenuItem, newMenuItem);
+                menuItemBLL.Update(this.MenuItem, newMenuItem);*/
 
             this.DialogResult = DialogResult.OK;
             this.Close();

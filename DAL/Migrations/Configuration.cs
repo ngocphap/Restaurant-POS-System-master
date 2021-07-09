@@ -234,6 +234,15 @@
                     Price = 10000,
                     PriceAfter = 9500,
                     Image = File.ReadAllBytes(rootPath + "/data/images/mirinda-soda-kem.jpg")
+                },
+                new MenuItem
+                {
+                    ID = 16,
+                    MenuID = 4,
+                    Name = "Nước suối",
+                    Price = 10000,
+                    PriceAfter = 9500,
+                    Image = File.ReadAllBytes(rootPath + "/data/images/nuoc.jpg")
                 }
             );
 
